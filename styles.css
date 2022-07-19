@@ -9,6 +9,8 @@
 body{
 	background: 100%;
 	background-image:url("happy.jpg");
+	background-size:contain;
+        background-position:center;
 }
 
 .wrapper .header{
