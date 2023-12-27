@@ -38,17 +38,17 @@ body{
 
 .cards_wrap .card_item{
 	padding: 15px 25px;
-	width: 25%;
+	width: 20%;
 }
 
 .cards_wrap .card_inner{
 	background: #fff;
 	border-radius: 0px;
 	padding: 0px 0px;
-	min-width: 200px;
+	width: 250px;
 	min-height: 315px;
 	max-height: 370px;
-	width: 100%;
+	
 }
 
 .cards_wrap .card_item img{
