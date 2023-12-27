@@ -2,20 +2,20 @@ var num = Math.floor(Math.random() * 4) + 1;
 
 $("#card1").wScratchPad({
   size: 100, // The size of the brush/scratch.
-  bg: `Images/Gpay_Card 1.png`, // Background (image path or hex color).
+  bg: `Images/1.JPEG`, // Background (image path or hex color).
   fg: `Images/front.jpg`, // Foreground (image path or hex color).
   cursor: "pointer", // Set cursor.
 });
 
 $("#card2").wScratchPad({
   size: 100, // The size of the brush/scratch.
-  bg: `Images/Gpay_Card 2.png`, // Background (image path or hex color).
+  bg: `Images/2.JPEG`, // Background (image path or hex color).
   fg: `Images/front.jpg`, // Foreground (image path or hex color).
   cursor: "pointer", // Set cursor.
 });
 $("#card3").wScratchPad({
   size: 100, // The size of the brush/scratch.
-  bg: `Images/Gpay_Card 3.png`, // Background (image path or hex color).
+  bg: `Images/3.JPEG`, // Background (image path or hex color).
   fg: `Images/front.jpg`, // Foreground (image path or hex color).
   cursor: "pointer", // Set cursor.
 });
