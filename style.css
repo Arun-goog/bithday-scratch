@@ -20,7 +20,7 @@ body {
 }
 
 .card {
-  width: 275px;
+  width: 250px;
 	height: 315px;
   position: relative;
   user-select: none;
